@@ -1,0 +1,12 @@
+
+
+MongoDB Setup 
+
+step 1 - Install MongoDB 
+step 2 - Create an Organization and Project in MongoDB Atlas
+step 3 - Create a Cluster(database) in MongoDB Atlas
+step 4 - Select a Cluster Tier and Region options - [AWS, GCP, Azure]
+step 5 - Create a Database User and Password
+step 6 - Whitelist your IP address to allow access to the database
+step 7 - Connect to your Cluster using MongoDB Compass (GUI) or Mongo Shell
+
