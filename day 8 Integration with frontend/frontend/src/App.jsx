@@ -18,7 +18,7 @@ export default function App() {
     try {
       const res = await axios.get("http://localhost:3000/notes/allNotes");
       console.log(res.data);
-      setAllNotes(res.data.data);
+      setAllNotes(res.data.data); 
     } catch (err) {
       console.log("error in get all api -", err);
     }
